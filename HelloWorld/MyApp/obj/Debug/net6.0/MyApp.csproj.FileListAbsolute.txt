@@ -1,0 +1,15 @@
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/bin/Debug/net6.0/MyApp
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/bin/Debug/net6.0/ref/MyApp.dll
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/obj/Debug/net6.0/ref/MyApp.dll
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/ksalgado/Documents/Scripts/Personal/MSLearn/HelloWorld/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
