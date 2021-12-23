@@ -163,4 +163,42 @@ public static class PizzaService
 }
 ```
 
-16) 
+16) Updated the Pizza.cshtml.cs file to include the following code inside the public class PizzaModel : PageModel:
+```
+ public List<Pizza> pizzas = new();
+
+        public string GlutenFreeText(Pizza pizza)
+        {
+            if (pizza.IsGlutenFree)
+                return "Gluten Free";
+            return "Not Gluten Free";
+        }
+
+        public IActionResult OnPost()
+        {
+            if (!ModelState.IsValid)
+            {
+                return Page();
+            }
+            PizzaService.Add(NewPizza);
+            return RedirectToAction("Get");
+        }
+
+        [BindProperty]
+        public Pizza NewPizza { get; set; } = new();
+
+        public IActionResult OnPostDelete(int id)
+        {
+            PizzaService.Delete(id);
+            return RedirectToAction("Get");
+        }
+```
+
+17) Add the following to Pages/Shared/Layout.cshtml Between HOME and Privacy :
+```
+<li class="nav-item">
+    <a class="nav-link text-dark" asp-area="" asp-page="/Pizza">Pizza List</a>
+</li>
+```
+
+18) Save and Run the application
